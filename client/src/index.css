@@ -14,18 +14,18 @@ body {
 }
 
 .gradient-bg-welcome {
-  background-color:#0e0632;
+  background-color:#0f0e13;
   background-image: 
-    radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
-    radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
-    radial-gradient(at 100% 0%, rgb(30, 39, 99) 0, transparent 50%);
+    radial-gradient(at 0% 0%, #273359 0, transparent 50%), 
+    radial-gradient(at 50% 0%, #273359 0, transparent 50%), 
+    radial-gradient(at 100% 0%, #273359 0, transparent 50%);
 }
 
 .gradient-bg-services {
   background-color:#0f0e13;
   background-image: 
     radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
-    radial-gradient(at 50% 100%, hsla(225,39%,25%,1) 0, transparent 50%);
+    radial-gradient(at 50% 100%, #273359 0, transparent 50%);
 }
 
 .gradient-bg-transactions {
@@ -61,7 +61,7 @@ body {
 }
 
 .eth-card {
-    background-image: linear-gradient(to right, #dbdce1, #cccdd2, #bdbec3, #aeafb4, #a0a1a5, #909296, #818487, #737678, #616465, #4f5253, #3f4142, #2f3131);
+background-image: linear-gradient(to right, #dbdce1, #cccdd2, #bdbec3, #aeafb4, #a0a1a5, #909296, #818487, #737678, #616465, #4f5253, #3f4142, #2f3131);
 }
 
 .text-gradient {
