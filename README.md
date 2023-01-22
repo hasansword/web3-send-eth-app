@@ -7,7 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a final case application for Paribu-Hub Solidity Smart Contract. Covered frontend which is integrated tailwind, react.js and reactjs tool vite. Using Web 3.0 methodoligies, Solidity & Metamask.
 
 ## Screenshot of App
-![image](web3-send-eth-app/client/images/Vite-ReactSS.png)
+![Vite-ReactSS](https://user-images.githubusercontent.com/25801979/213933546-5ccd3b98-78a9-47f2-a3bc-c10e676f252c.png)
+
 
 
 ## Available Scripts
